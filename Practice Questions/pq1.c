@@ -1,5 +1,6 @@
 #include<stdio.h>
-int main(){
+
+int manin(){
     int side;
     printf("Enter the side length of the square: ");
     scanf("%d", &side);
