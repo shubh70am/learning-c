@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    int a = 5*2-2*3;
-    printf("%d",a);
+    printf("%d\n",10>=9);
     return 0;
+    
 }
